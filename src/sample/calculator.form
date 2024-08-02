@@ -220,4 +220,10 @@
       </component>
     </children>
   </grid>
+  <buttonGroups>
+    <group name="buttonGroup1">
+      <member id="648a"/>
+      <member id="ef774"/>
+    </group>
+  </buttonGroups>
 </form>
