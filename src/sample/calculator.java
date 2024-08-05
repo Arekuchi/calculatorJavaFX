@@ -52,7 +52,7 @@ public class calculator {
         clearButton.addActionListener(new ClearBtnClicked());
 //        signBtn.addActionListener(new SignBtnClicked());
 //        digitBtn.addActionListener(new DigitBtnClicked());
-    }
+    a1Button.addActionListener(new ActionListener() { } );}
 
     private class NumberBtnClicked implements ActionListener {
 
